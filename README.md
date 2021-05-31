@@ -28,7 +28,11 @@ I am the King! Bi******
 
 Hello Kola Hello Rippl xD
 - Hallo Lexi
+<<<<<<< HEAD
 Wie geht es dir ?
+=======
+-nö
+>>>>>>> 3f15ef3ee0a19fd0ab54e546741a879cb0915986
 
 
 
