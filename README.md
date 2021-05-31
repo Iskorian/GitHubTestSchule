@@ -19,13 +19,15 @@ marcooooo is inda haus
 
 
 Alex is back!!
-<<<<<<< HEAD
+
 Back in Game!
 This is Back!
 
-=======
-nö
->>>>>>> 54a67ab096bc32ec698cbe2e475180b4564fbb0d
+
+I am the King! Bi******
+
+
+
 .
 .
 .
