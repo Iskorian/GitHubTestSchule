@@ -26,6 +26,9 @@ This is Back!
 
 I am the King! Bi******
 
+Hello Kola Hello Rippl xD
+
+
 
 
 .
