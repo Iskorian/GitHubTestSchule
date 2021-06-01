@@ -1,4 +1,4 @@
 # GitHubTestSchule
 Test
 
-doller
+dollstens
