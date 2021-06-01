@@ -14,6 +14,7 @@ namespace TestGitHub
             // du noob
             Console.WriteLine("Hallo ich bins, Marco");
             // selber noob
+            Console.WriteLine("Commit from vs");
         }
     }
 }
