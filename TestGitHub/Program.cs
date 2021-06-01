@@ -10,6 +10,10 @@ namespace TestGitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!!");
+            // du noob
+            Console.WriteLine("Hallo ich bins, Marco");
+
         }
     }
 }
