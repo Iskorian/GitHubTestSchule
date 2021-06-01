@@ -18,6 +18,8 @@ namespace TestGitHub
 
             // selber noob
             Console.WriteLine("Commit from vs");
+
+            Console.WriteLine("Git ist toll");
         }
     }
 }
